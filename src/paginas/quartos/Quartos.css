@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+
+.cards{
+    width: 10%;
+    height: 10%;
+    margin: 3px;
+}
+
+.img-cards{
+    width: 50%;
+    height: 5%;
+}
+.img-carousel{
+    width: 100%;   
+}
+
+.icon{
+    text-align: center;
+}
